@@ -22,7 +22,7 @@ defaults:
 
 <div class="mt-6 text-amber-400 font-semibold text-xl">Microsoft Dev Days · 2026</div>
 
-<div class="mt-4 text-gray-300">Drew Schillinger · CTO2GO · @connexure</div>
+<div class="mt-4 text-gray-300">Drew Schillinger · Enterprise Architect · @connexure · @CTO2Go.co</div>
 
 <div class="abs-br m-6 text-gray-400 text-sm">⚽ ATL FIFA Navigator · built in ~2 hours</div>
 
