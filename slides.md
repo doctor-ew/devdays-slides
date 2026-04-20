@@ -67,6 +67,10 @@ src: ./pages/10-gstack-roles.md
 ---
 
 ---
+src: ./pages/10c-garry-context.md
+---
+
+---
 src: ./pages/10b-spec-harness.md
 ---
 
