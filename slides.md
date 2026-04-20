@@ -22,7 +22,7 @@ defaults:
 
 <div class="mt-6 text-amber-400 font-semibold text-xl">Microsoft Dev Days · 2026</div>
 
-<div class="mt-4 text-gray-300">Drew Schillinger · Enterprise Architect · @doctorew</div>
+<div class="mt-4 text-gray-300">Drew Schillinger · CTO2GO · @connexure</div>
 
 <div class="abs-br m-6 text-gray-400 text-sm">⚽ ATL FIFA Navigator · built in ~2 hours</div>
 
@@ -51,11 +51,11 @@ src: ./pages/07-domain-2.md
 ---
 
 ---
-src: ./pages/08-domain-4.md
+src: ./pages/08a-domain-3.md
 ---
 
 ---
-src: ./pages/08a-domain-3.md
+src: ./pages/08-domain-4.md
 ---
 
 ---
@@ -79,7 +79,11 @@ src: ./pages/11b-drew-eng.md
 ---
 
 ---
-src: ./pages/11c-model-tiering.md
+src: ./pages/11d-gh-tools-harness.md
+---
+
+---
+src: ./pages/11e-gh-workflow.md
 ---
 
 ---
@@ -88,10 +92,6 @@ src: ./pages/12-problem.md
 
 ---
 src: ./pages/13-stack.md
----
-
----
-src: ./pages/14-build-numbers.md
 ---
 
 ---
