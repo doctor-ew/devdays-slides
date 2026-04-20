@@ -5,15 +5,16 @@ layout: center
 # The Reveal ⚽
 
 <div class="mt-4 text-3xl font-mono text-amber-400">
-atl-fifa-navigator-v2.vercel.app
+doctor-ew.github.io/marta-devdays/
 </div>
 
 <div class="mt-3 text-gray-300">
 Scan the QR · Try it on your phone · Pick a zone, pick a match, ask Claude
 </div>
 
-<div class="mt-6">
-  <img src="/img/app-screenshot.png" class="rounded-xl border border-amber-400/30 mx-auto max-h-52 object-contain shadow-2xl" />
+<div class="mt-6 flex items-center gap-8 justify-center">
+  <img src="/img/marta-devdays-qr.png" class="rounded-xl border border-amber-400/30 max-h-36 object-contain shadow-2xl" />
+  <img src="/img/app-screenshot.png" class="rounded-xl border border-amber-400/30 max-h-36 object-contain shadow-2xl" />
 </div>
 
 <div class="mt-4 grid grid-cols-3 gap-4 text-sm text-center max-w-lg mx-auto">

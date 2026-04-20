@@ -55,7 +55,11 @@ src: ./pages/08-domain-4.md
 ---
 
 ---
-src: ./pages/09-domain-4-callout.md
+src: ./pages/08a-domain-3.md
+---
+
+---
+src: ./pages/08c-domain-5.md
 ---
 
 ---
@@ -67,7 +71,15 @@ src: ./pages/10b-spec-harness.md
 ---
 
 ---
-src: ./pages/11-fafnir.md
+src: ./pages/11a-spec-contract.md
+---
+
+---
+src: ./pages/11b-drew-eng.md
+---
+
+---
+src: ./pages/11c-model-tiering.md
 ---
 
 ---
@@ -83,11 +95,11 @@ src: ./pages/14-build-numbers.md
 ---
 
 ---
-src: ./pages/15-map-pivot.md
+src: ./pages/14b-two-scales.md
 ---
 
 ---
-src: ./pages/16-friend-voice.md
+src: ./pages/20-get-tools.md
 ---
 
 ---
@@ -96,16 +108,4 @@ src: ./pages/17-reveal.md
 
 ---
 src: ./pages/18-atcn.md
----
-
----
-src: ./pages/19-synthesis-table.md
----
-
----
-src: ./pages/20-get-tools.md
----
-
----
-src: ./pages/21-ship.md
 ---
