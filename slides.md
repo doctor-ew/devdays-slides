@@ -63,6 +63,10 @@ src: ./pages/10-gstack-roles.md
 ---
 
 ---
+src: ./pages/10b-spec-harness.md
+---
+
+---
 src: ./pages/11-fafnir.md
 ---
 
